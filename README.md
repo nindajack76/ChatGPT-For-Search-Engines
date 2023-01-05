@@ -56,11 +56,7 @@ _Notice: Brave/Opera users please follow [Troubleshooting](#troubleshooting) sec
 
 Disable "Prevent sites from fingerprinting me based on my language preferences" in `brave://settings/shields`
 
-### How to make it work in Opera
 
-![Screenshot](screenshots/opera.png?raw=true)
-
-Enable "Allow access to search page results" in the extension management page
 
 ## Credit
 
